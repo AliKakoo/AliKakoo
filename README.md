@@ -14,3 +14,6 @@ I work on AI first Machine Learning and In the following I learning Deep Learnin
 <a href="https://instagram.com/data_scientist_ai">
   <img src = "https://github.com/AliKakoo/AliKakoo/blob/main/icons8-instagram-96.png?raw=true"/>
 <a/>
+<a href="https://instagram.com/data_scientist_ai">
+  <img src = "https://github.com/AliKakoo/AliKakoo/blob/main/icons8-instagram-96.png?raw=true"/>
+<a/>
