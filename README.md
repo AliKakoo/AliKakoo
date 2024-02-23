@@ -1,6 +1,7 @@
 ### Hi there 👋          
 
-I am **ali kakuo**
+I am **ali kakuo** 
+I work on AI first Machine Learning and In the following I learning Deep Learning
 ## this is real
 ---
 ## My Activity
